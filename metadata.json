@@ -1,0 +1,5 @@
+{
+  "name": "AutoPost Pro",
+  "description": "A modern SaaS-style social media content scheduler MVP that sends post data to an n8n webhook.",
+  "requestFramePermissions": []
+}
